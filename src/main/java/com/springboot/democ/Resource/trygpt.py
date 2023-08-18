@@ -7,7 +7,7 @@ import sys
 from youtube_transcript_api import YouTubeTranscriptApi
 
 
-openai.api_key ="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"
+openai.api_key =
 
 
 
